@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		38255DD42A13415600D6F4EC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4ED677112A11C20C00C780C1 /* diceapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = diceapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ED677142A11C20C00C780C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4ED677162A11C20C00C780C1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		4ED677082A11C20B00C780C1 = {
 			isa = PBXGroup;
 			children = (
+				38255DD42A13415600D6F4EC /* README.md */,
 				4ED677132A11C20C00C780C1 /* diceapp */,
 				4ED677122A11C20C00C780C1 /* Products */,
 			);
