@@ -4,5 +4,5 @@ You can try you luck by playing Dice app. You can guess number and you can check
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/NyP4mWH/img1.png "Screenshort")
+<img src="https://i.ibb.co/NyP4mWH/img1.png" width="250px" aly="App Screenshot"/>
 
